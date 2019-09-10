@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorReader</string>
+    <string name="hello_world_text">0</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+</resources>
